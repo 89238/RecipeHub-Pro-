@@ -1,4 +1,4 @@
-# Recipe Collector - WordPress Plugin
+# RecipeHub-Pro - WordPress Plugin
 
 A comprehensive recipe management system for WordPress with user registration, admin interface, and REST API endpoints.
 
